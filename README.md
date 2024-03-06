@@ -1,3 +1,4 @@
+<img align="center" src="https://50receipts.com/img/50s.png">
 <h1 align="center">
     50 Receipts API
 </h1>
