@@ -10,5 +10,6 @@
 <h1 align="center">
 	Examples
 </h1>
-
-[StockX](https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py)
+<h3 align="center">
+	[StockX](https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py)
+</h3>
