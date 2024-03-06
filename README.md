@@ -1,5 +1,5 @@
-<img src="https://50receipts.com/img/50s.png">
 <h1 align="center">
+	<img src="https://50receipts.com/img/50s.png" width="150px"><br>
     50 Receipts API
 </h1>
 <p align="center">
