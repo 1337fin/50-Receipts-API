@@ -3,7 +3,7 @@
     50 Receipts API
 </h1>
 <p align="center">
-	The Top Receipt Generator est 2023<br>NOTE: This is for <b>MY</b> personal use, however, I am uploading it here incase anybody wants to check it out :P</br>
+	The Top Receipt Generator est 2023<br>NOTE: This is for <b>MY</b> personal use, I do not condone the use of this API for any illegal reason. :)</br>
 </p>
 
 <h1></h1>
