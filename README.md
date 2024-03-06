@@ -11,5 +11,5 @@
 	Examples
 </h1>
 <h3 align="center">
-	[StockX](https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py)
+	<a href="https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py">StockX</a>
 </h3>
