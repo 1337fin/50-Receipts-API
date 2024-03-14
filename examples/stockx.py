@@ -1,6 +1,6 @@
 import requests
 
-url = "https://50receipts.com/api/stockx"
+url = "https://api.50receipts.com/api/stockx"
 
 data = {
     "discordId": "YOUR_DISCORD_ID",
