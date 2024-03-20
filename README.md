@@ -10,6 +10,9 @@
 <h1 align="center">
 	Purchase
 </h1>
+<h3 align="center">
+Click [here](https://50receipts.com/join) to purchase, make a ticket.
+</h3>
 
 <h1 align="center">
 	Examples
