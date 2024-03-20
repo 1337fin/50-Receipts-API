@@ -12,7 +12,10 @@
 </h1>
 <h3 align="center">
 Click <a href="https://50receipts.com/join">here</a> to purchase. Make a ticket.
-	<img src="https://github.com/fin702106/50-Receipts-API/blob/main/examples/video/video.mp4">
+	<video width="320" height="240" controls>
+	  <source src="https://github.com/fin702106/50-Receipts-API/blob/main/examples/video/video.mp4" type="video/mp4">
+	  Your browser does not support the video tag.
+	</video>
 </h3>
 
 <h1 align="center">
