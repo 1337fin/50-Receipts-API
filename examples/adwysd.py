@@ -7,7 +7,7 @@ data = {
     "apiKey": "YOUR API KEY",
   
     "product_link": "YOUR PRODUCT LINK",
-    "email": "battleclanfn@gmail.com",
+    "email": "test@example.com",
     "size": "YOUR SIZE",
     "price": 100.00,
     "shipping_fee": 10.00,
