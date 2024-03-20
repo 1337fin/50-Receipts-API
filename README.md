@@ -11,7 +11,7 @@
 	Purchase
 </h1>
 <h3 align="center">
-Click [here](https://50receipts.com/join) to purchase, make a ticket.
+Click <a href="https://50receipts.com/join">here</a> to purchase. Make a ticket.
 </h3>
 
 <h1 align="center">
