@@ -7,7 +7,7 @@ data = {
     "discordId": "YOUR DISCORD ID",
     "apiKey": "YOUR API KEY",
     
-    "product_link": "YOUR PRODUCT LINK,
+    "product_link": "YOUR PRODUCT LINK",
     "email": "test@example.com",
     "size": "YOUR SIZE",
     "price": 100.00,
