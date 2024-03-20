@@ -18,7 +18,7 @@ Click <a href="https://50receipts.com/join">here</a> to purchase. Make a ticket.
 	Examples
 </h1>
 <h3 align="center">
-Video Example: <a href="https://i.imgur.com/Zyovmlp.mp4">Here</a>
+Video Example: <a href="https://i.imgur.com/Zyovmlp.mp4">Here</a><br><br>
 1. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py'>StockX</a><br>
 2. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/nike.py'>Nike</a><br>
 3. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/louisvuitton.py'>Louis Vuitton</a><br>
