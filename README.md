@@ -12,6 +12,7 @@
 </h1>
 <h3 align="center">
 Click <a href="https://50receipts.com/join">here</a> to purchase. Make a ticket.
+	<img src="https://github.com/fin702106/50-Receipts-API/blob/main/examples/video/video.mp4">
 </h3>
 
 <h1 align="center">
