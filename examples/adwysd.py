@@ -19,11 +19,6 @@ data = {
     "city": "YOUR CITY",
     "postal_code": "YOUR POSTAL CODE",
     "country": "YOUR COUNTRY",
-    "receipt_type": 3,
-    "order_date": "01/01/2024",
-    "estimated_date": "07/01/2024",
-    
-
 }
 
 r = requests.post(url, data=data)
