@@ -5,6 +5,10 @@
 <p align="center">
 	The Top Receipt Generator est 2023<br>NOTE: This is for <b>MY</b> personal use, I do not condone the use of this API for any illegal reason. :)</br>
 </p>
+
+</h1>
+<h1 align="center">
+	Purchase
 </h1>
 
 <h1 align="center">
