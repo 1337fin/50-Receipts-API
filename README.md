@@ -12,7 +12,7 @@
 </h1>
 <h3 align="center">
 	1. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py'>stockx.py</a>
-	2. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/nike.py'>nike.py</a>
+	2. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/nike.py'>nike.py</a><br>
 	3. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/louisvuitton.py'>louisvuitton.py</a>
 	4. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/dior.py'>dior.py</a>
 	5. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/denimtears.py'>denimtears.py</a>
