@@ -6,7 +6,8 @@ url = "http://api.50receipts.com/api/nike"
 data = {
     "discordId": "YOUR DISCORD ID",
     "apiKey": "YOUR API KEY",
-    "product_link": prl,
+    
+    "product_link": "YOUR PRODUCT LINK,
     "email": "test@example.com",
     "size": "YOUR SIZE",
     "price": 100.00,
