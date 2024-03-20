@@ -11,5 +11,18 @@
 	Examples
 </h1>
 <h3 align="center">
-	1. <a href="https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py">StockX</a>
+	1. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/stockx.py'>stockx.py</a>
+	2. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/nike.py'>nike.py</a>
+	3. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/louisvuitton.py'>louisvuitton.py</a>
+	4. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/dior.py'>dior.py</a>
+	5. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/denimtears.py'>denimtears.py</a>
+	6. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/corteiz.py'>corteiz.py</a>
+	7. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/canadagoose.py'>canadagoose.py</a>
+	8. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/burberry.py'>burberry.py</a>
+	9. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/bpm.py'>bpm.py</a>
+	10. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/bape.py'>bape.py</a>
+	11. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/balenciaga.py'>balenciaga.py</a>
+	12. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/apple.py'>apple.py</a>
+	13. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/adwysd.py'>adwysd.py</a>
+	14. <a href='https://github.com/fin702106/50-Receipts-API/blob/main/examples/adidas.py'>adidas.py</a>
 </h3>
